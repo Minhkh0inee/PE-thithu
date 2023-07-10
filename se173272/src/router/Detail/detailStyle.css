@@ -1,0 +1,7 @@
+.wrap-detail{
+    padding-bottom: 20%;
+    padding-top: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
